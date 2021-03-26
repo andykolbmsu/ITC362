@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragment Traffic Light</string>
+    <string name="button_text">CLICK ME</string>
+    <string name="red_light">Red Light</string>
+    <string name="green_light">Green Light</string>
+    <string name="yellow_light">Yellow Light</string>
+</resources>
